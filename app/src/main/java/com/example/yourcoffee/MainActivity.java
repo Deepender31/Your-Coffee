@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     EditText ETD1;
     Button Bplus ,Bminus,Border,Breset,Bemail;
     TextView Tq,Tordersummary;
-    CheckBox Cb1,cb2;
+    CheckBox Cb1,cb2, CB3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
